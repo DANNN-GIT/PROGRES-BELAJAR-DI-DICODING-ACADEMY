@@ -12,3 +12,17 @@ Belajar Dasar Git dengan GitHub - (Progres 13%)
     <li>Glosarium</li>
     <li>Latihan Ujian</li>
 </ul>
+
+### *17 Februari 2023*
+Belajar Dasar Git dengan GitHub - (Progres 24%)
+<ul>
+    <li>Pengantar Git dan GitHub</li>
+    <li>Mengenal Git secara Lebih Dalam</li>
+    <li>Mengenal GitHub secara Lebih Dalam</li>
+    <li>Latihan Membuat Akun GitHub</li>
+    <li>Latihan Mengeksplorasi Proyek GitHub</li>
+    <li>Latihan Mengenal GitHub Dashboard</li>
+    <li>Notifikasi GitHub</li>
+    <li>Rangkuman Git dan Github</li>
+    <li>Kuis Git dan Github</li>
+</ul>
