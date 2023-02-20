@@ -2,7 +2,7 @@
 *Repository ini berisi tentang pengalaman belajar saya di MSIB Dicoding Academy Batch 4*
 
 ### *16 Februari 2023*
-Belajar Dasar Git dengan GitHub - (Progres 13%)
+Belajar Dasar Git dengan GitHub - **(Progres 13%)**
 <ul>
     <li>Persetujuan Hak Cipta</li>
     <li>Prasyarat Kemampuan</li>
@@ -14,7 +14,7 @@ Belajar Dasar Git dengan GitHub - (Progres 13%)
 </ul>
 
 ### *17 Februari 2023*
-Belajar Dasar Git dengan GitHub - (Progres 24%)
+Belajar Dasar Git dengan GitHub - **(Progres 24%)**
 <ul>
     <li>Pengantar Git dan GitHub</li>
     <li>Mengenal Git secara Lebih Dalam</li>
