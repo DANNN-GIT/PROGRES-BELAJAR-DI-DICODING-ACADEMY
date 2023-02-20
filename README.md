@@ -52,7 +52,7 @@ Belajar Dasar Git dengan GitHub - **(Progres 48%)**
     <li>Mengubah Tampilan Menggunakan Format Markdown</li>
     <li>Tantangan Menambahkan Progres Belajar</li>
     <li>Melihat History Perubahan</li>
-    <li>Merilis Dokumentasi Pengalaman Belajar - *(akan dilanjut ketika kelas ini mencapai target 100%)*</li>
+    <li>Merilis Dokumentasi Pengalaman Belajar - *akan dilanjut ketika kelas ini mencapai target 100%* </li>
     <li>Rangkuman Studi Kasus Pengalaman Belajar</li>
     <li>Kuis Studi Kasus Pengalaman Belajar</li>
 </ul>
