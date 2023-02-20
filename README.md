@@ -41,3 +41,18 @@ Belajar Dasar Git dengan GitHub - **(Progres 32%)**
     <li>Latihan Membuat Release File</li>
     <li>Kuis Dasar Git</li>
 </ul>
+
+### *20 Februari 2023*
+Belajar Dasar Git dengan GitHub - **(Progres 48%)**
+<ul>
+    <li>Persiapan Studi Kasus Pengalaman Belajar</li>
+    <li>Membuat Repository Baru</li>
+    <li>Menambahkan Pengalaman Belajar</li>
+    <li>Menambahkan Kembali Progres Belajar</li>
+    <li>Mengubah Tampilan Menggunakan Format Markdown</li>
+    <li>Tantangan Menambahkan Progres Belajar</li>
+    <li>Melihat History Perubahan</li>
+    <li>Merilis Dokumentasi Pengalaman Belajar - *(akan dilanjut ketika kelas ini mencapai target 100%)*</li>
+    <li>Rangkuman Studi Kasus Pengalaman Belajar</li>
+    <li>Kuis Studi Kasus Pengalaman Belajar</li>
+</ul>
