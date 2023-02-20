@@ -26,3 +26,18 @@ Belajar Dasar Git dengan GitHub - **(Progres 24%)**
     <li>Rangkuman Git dan Github</li>
     <li>Kuis Git dan Github</li>
 </ul>
+
+### *18 Februari 2023*
+Belajar Dasar Git dengan GitHub - **(Progres 32%)**
+<ul>
+    <li>Pengantar Dasar Git</li>
+    <li>Mengenal Perintah Dasar Git secara Lebih Dalam</li>
+    <li>Mengenal Git Workflow</li>
+    <li>Mengenal Repository</li>
+    <li>Latihan Membuat Repository Baru</li>
+    <li>Latihan Membuat Readme untuk Repository</li>
+    <li>Latihan Menambahkan File Baru</li>
+    <li>Latihan Mengubah Data dalam Berkas Menggunakan Commit</li>
+    <li>Latihan Membuat Release File</li>
+    <li>Kuis Dasar Git</li>
+</ul>
